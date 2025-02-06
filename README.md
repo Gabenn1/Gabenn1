@@ -10,7 +10,7 @@
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-clark/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/Gabenn1)
-[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1235752944834580551)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/277664951009542144)
 
 
 ## 🚀 **Languages, Tools and More!**:
