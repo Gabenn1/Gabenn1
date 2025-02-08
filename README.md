@@ -24,12 +24,12 @@
   <img src= "https://spotify-github-profile.kittinanx.com/api/view?uid=1222761623&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
 </p>
 
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music.gif)
+![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif)
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music.gif)
+![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif)
 
 
 
