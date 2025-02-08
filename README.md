@@ -9,9 +9,7 @@
 </p>
 
 
-## 🤝 Let's Connect:![music2](https://github.com/user-attachments/assets/c4a654ec-cf21-4470-b1dd-6ddc4f112f22)
-
-
+## 🤝 Let's Connect!:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-clark/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/Gabenn1)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/277664951009542144)
