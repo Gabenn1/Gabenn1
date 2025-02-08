@@ -29,7 +29,6 @@
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer.gif)
 ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music.gif)
 
 
