@@ -9,7 +9,8 @@
 </p>
 
 
-## 🤝 Let's Connect:
+## 🤝 Let's Connect:![music2](https://github.com/user-attachments/assets/c4a654ec-cf21-4470-b1dd-6ddc4f112f22)
+
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-clark/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/Gabenn1)
@@ -20,13 +21,15 @@
 
 ![Languages/Tools](https://skillicons.dev/icons?i=py,cpp,java,js,html,css,docker,emacs,github,linux,postgres,raspberrypi,vscode,matlab)
 
-
-
-
 ## 🎵 **What I'm jamming to**:
 <p align="center">
   <img src= "https://spotify-github-profile.kittinanx.com/api/view?uid=1222761623&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
 </p>
+
+![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music.gif)
+![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif)
+
+
 
 
 
