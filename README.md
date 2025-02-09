@@ -5,7 +5,7 @@
 ### 🎓 I am a USMC Veteran currently pursuing a degree in Computer Science from ASU!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabenn1&layout=donut&theme=onedark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabenn1&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
 
