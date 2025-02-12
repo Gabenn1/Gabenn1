@@ -20,22 +20,13 @@
 ![Languages/Tools](https://skillicons.dev/icons?i=py,cpp,java,js,html,css,docker,emacs,github,linux,postgres,raspberrypi,vscode,matlab)
 
 ## 🎵 **What I'm jamming to**:
-<p align="center">
+  ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music1.gif)
   <img src= "https://spotify-github-profile.kittinanx.com/api/view?uid=1222761623&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
-</p>
+  ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif)
 
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/equilizer1.gif)
-![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif)
+
+
+
 
 
 
