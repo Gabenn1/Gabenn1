@@ -20,9 +20,11 @@
 ![Languages/Tools](https://skillicons.dev/icons?i=py,cpp,java,js,html,css,docker,emacs,github,linux,postgres,raspberrypi,vscode,matlab)
 
 ## 🎵 **What I'm jamming to**:
-  ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music1.gif)
-  <img src= "https://spotify-github-profile.kittinanx.com/api/view?uid=1222761623&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
-  ![](https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif)
+<p align="center">
+  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/music1.gif" >
+   <img src= "https://spotify-github-profile.kittinanx.com/api/view?uid=1222761623&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
+  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif">
+</p>
 
 
 
