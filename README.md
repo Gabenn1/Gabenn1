@@ -31,6 +31,7 @@
 <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/HTML.gif"  width="75" height="75">
 <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Docker.gif"  width="75" height="75">
 <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Postgresql.gif"  width="75" height="75">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/TypeScript.gif"  width="75" height="75">
 </p>
 
 ## 🎵 **What I'm jamming to**:
