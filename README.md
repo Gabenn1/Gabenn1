@@ -25,14 +25,14 @@
 ## 🚀 **Languages, Tools and More!**:
 ### Currently drawing more icons :))
 <p align="left">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/C++.gif"  width="75" height="75">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Python.gif"  width="75" height="75">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Java.gif"  width="75" height="75">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/HTML_.gif"  width="75" height="75">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Docker_.gif"  width="75" height="75">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Postgresql.gif"  width="75" height="75">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/TypeScript.gif"  width="75" height="75">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Linux.gif"  width="75" height="75">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/C++.gif"  width="80" height="80">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Python.gif"  width="80" height="80">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Java.gif"  width="80" height="80">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/HTML_.gif"  width="80" height="80">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Docker_.gif"  width="80" height="80">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Postgresql.gif"  width="80" height="80">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/TypeScript.gif"  width="80" height="80">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Linux.gif"  width="80" height="80">
 </p>
 
 ## 🎵 **What I'm jamming to**:
