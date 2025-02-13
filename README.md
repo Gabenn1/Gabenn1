@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Welcome-to-my-Github-2-8-2025.gif" alt="Welcome to my Github!" />
+  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/hellogabe.gif" alt="Welcome to my Github!" />
 </p>
 
 ### 🎓 I am a USMC Veteran currently pursuing a degree in Computer Science from ASU!
