@@ -53,4 +53,4 @@
 
 - Most Used Languages: https://github.com/anuraghazra/github-readme-stats
 - Spotify: https://github.com/kittinan/spotify-github-profile
-- Icons: https://skillicons.dev/
+- Icons: Me! :)
