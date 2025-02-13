@@ -15,7 +15,7 @@
     <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/LinkedIn.gif" width="75" height="75">
 </a>
 <a href="https://github.com/Gabenn1">
-    <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Git2.gif" width="75" height="75">
+    <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Git_.gif" width="75" height="75">
 </a>
 <a href="https://discord.com/users/277664951009542144">
     <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Discord.gif" width="75" height="75">
@@ -37,9 +37,9 @@
 
 ## 🎵 **What I'm jamming to**:
 <p align="center">
-  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/music1.gif" >
+  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/disco.gif" width="75" height="75">
    <img src= "https://spotify-github-profile.kittinanx.com/api/view?uid=1222761623&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
-  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/music2.gif">
+  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/disco.gif" width="75" height="75">
 </p>
 
 
