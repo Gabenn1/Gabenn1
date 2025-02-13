@@ -11,17 +11,24 @@
 
 ## 🤝 Let's Connect!:
 
-[![linkedin](https://github.com/Gabenn1/Gabenn1/blob/main/images/LinkedIn.gif)](https://www.linkedin.com/in/gabriel-clark/)
-[![github](https://github.com/Gabenn1/Gabenn1/blob/main/images/Git.gif)](https://github.com/Gabenn1)
-[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/277664951009542144)
+<a href="https://www.linkedin.com/in/gabriel-clark/">
+    <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/LinkedIn.gif" width="75" height="75">
+</a>
+<a href="https://github.com/Gabenn1">
+    <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Git.gif" width="75" height="75">
+</a>
+<a href="https://discord.com/users/277664951009542144">
+    <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Discord.gif" width="75" height="75">
+</a>
 
 
 ## 🚀 **Languages, Tools and More!**:
 ### Currently drawing more icons :))
 <p align="left">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/CGif.gif"  width="70" height="70">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Python.gif"  width="70" height="70">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Java.gif"  width="70" height="70">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/CGif.gif"  width="75" height="75">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Python.gif"  width="75" height="75">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Java.gif"  width="75" height="75">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/HTML.gif"  width="75" height="75">
 </p>
 
 ## 🎵 **What I'm jamming to**:
