@@ -37,9 +37,9 @@
 
 ## 🎵 **What I'm jamming to**:
 <p align="center">
-  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/disco.gif" width="75" height="75">
+  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/disco.gif" width="100" height="100">
    <img src= "https://spotify-github-profile.kittinanx.com/api/view?uid=1222761623&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
-  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/disco.gif" width="75" height="75">
+  <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/disco.gif" width="100" height="100">
 </p>
 
 
