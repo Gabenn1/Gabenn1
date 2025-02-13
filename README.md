@@ -15,7 +15,7 @@
     <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/LinkedIn.gif" width="75" height="75">
 </a>
 <a href="https://github.com/Gabenn1">
-    <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Git.gif" width="75" height="75">
+    <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Git2.gif" width="75" height="75">
 </a>
 <a href="https://discord.com/users/277664951009542144">
     <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Discord.gif" width="75" height="75">
