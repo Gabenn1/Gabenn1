@@ -16,9 +16,12 @@
 
 
 ## 🚀 **Languages, Tools and More!**:
-### Test!
+### Currently drawing more icons :))
+<p align="left">
 <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/CGif.gif"  width="70" height="70">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/CGif.gif"  width="70" height="70">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Python.gif"  width="70" height="70">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Java.gif"  width="70" height="70">
+</p>
 
 ## 🎵 **What I'm jamming to**:
 <p align="center">
