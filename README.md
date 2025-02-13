@@ -12,7 +12,7 @@
 ## 🤝 Let's Connect!:
 
 [![linkedin](https://github.com/Gabenn1/Gabenn1/blob/main/images/LinkedIn.gif)](https://www.linkedin.com/in/gabriel-clark/)
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/Gabenn1)
+[![github](https://github.com/Gabenn1/Gabenn1/blob/main/images/Git.gif)](https://github.com/Gabenn1)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/277664951009542144)
 
 
