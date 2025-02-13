@@ -25,7 +25,7 @@
 ## 🚀 **Languages, Tools and More!**:
 ### Currently drawing more icons :))
 <p align="left">
-<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/CGif.gif"  width="75" height="75">
+<img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/C++.gif"  width="75" height="75">
 <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Python.gif"  width="75" height="75">
 <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/Java.gif"  width="75" height="75">
 <img src="https://github.com/Gabenn1/Gabenn1/blob/main/images/HTML.gif"  width="75" height="75">
